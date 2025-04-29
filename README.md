@@ -1,4 +1,4 @@
-# Chatgpt-Maths-Accuracy-Enhancer
+# LLM-Maths-Accuracy-Enhancer
 
 This project presents a multi functional mathematical assistant that seamlessly integrates symbolic computation with machine learning-powered 
 image recognition. This assistant is not only a computational tool but also an educational aid that enhances mathematical understanding and productivity in both academic 
