@@ -32,5 +32,36 @@ receive. If the training data lacks sufficient mathematical content or examples,
 provide correct solutions, especially for niche or specialized mathematical queries.
 
 
+#Mathematical Errors of Existing LLM Models:
 
 ![image](https://github.com/user-attachments/assets/ea7b2f27-6195-473d-b6a8-cb7482d2eae8)
+
+![WhatsApp Image 2025-04-29 at 23 19 51_e8f839af](https://github.com/user-attachments/assets/981f8d34-60cf-4436-9061-c3aae2614512)
+
+![WhatsApp Image 2025-04-29 at 23 19 23_2949ccdb](https://github.com/user-attachments/assets/9d58771e-15c5-43df-b2b2-ec7d3f535c23)
+
+
+Actual Calculator's Answer
+
+
+
+![WhatsApp Image 2025-04-29 at 23 18 37_b19d346b](https://github.com/user-attachments/assets/66e43b75-bf59-4eff-b751-2eb2f9c99ffb)
+
+![WhatsApp Image 2025-04-29 at 23 18 38_2a491a24](https://github.com/user-attachments/assets/1e21db69-20b3-4280-8582-95baaa06e7a0)
+
+![WhatsApp Image 2025-04-29 at 23 19 22_caa81c99](https://github.com/user-attachments/assets/a062c00c-e9c1-45e5-a6a5-6c906fb237cc)
+
+![WhatsApp Image 2025-04-29 at 23 19 22_e3a24507](https://github.com/user-attachments/assets/96201bad-ce7c-44e2-b687-6f100f4a55e7)
+
+
+
+
+
+
+
+
+
+## Architecture of Our Model
+
+![image](https://github.com/user-attachments/assets/a346c032-008e-4e99-8805-1b1fd1ce3695)
+
